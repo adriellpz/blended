@@ -5,7 +5,7 @@ class Devopsfileupload extends React.Component {
         return (
             <div className='devopsfileupload'>
                 <p1>
-                    DevOps Report <input type='file'></input>
+                    DevOps Report <input type='file' id='devopsreport'></input>
                 </p1>
             </div>
         )
